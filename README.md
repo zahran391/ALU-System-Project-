@@ -6,3 +6,4 @@ This is My ALU project latest project in digital design , This Alu Can do operat
 <img width="1000" height="722" alt="image" src="https://github.com/user-attachments/assets/35d85b6e-67f5-4908-ae6b-3cc970bdce7e" />
 
 <img width="1075" height="566" alt="image" src="https://github.com/user-attachments/assets/24cbec96-bb87-4a44-8bc2-1ab4cc68881e" />
+<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/1deb527c-f3e6-4e3d-89d2-873f6a263aec" />
